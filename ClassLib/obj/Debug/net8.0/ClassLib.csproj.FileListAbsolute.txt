@@ -1,0 +1,11 @@
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\bin\Debug\net8.0\ClassLib.deps.json
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\bin\Debug\net8.0\ClassLib.dll
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\bin\Debug\net8.0\ClassLib.pdb
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfoInputs.cache
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ClassLib.AssemblyInfo.cs
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ClassLib.csproj.CoreCompileInputs.cache
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ClassLib.dll
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\refint\ClassLib.dll
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ClassLib.pdb
+I:\leet code questions\2073. Time Needed to Buy Tickets\ClassLib\obj\Debug\net8.0\ref\ClassLib.dll
