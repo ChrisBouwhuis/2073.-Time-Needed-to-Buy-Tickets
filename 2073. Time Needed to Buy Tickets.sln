@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2073. Time Needed to Buy Tickets", "2073. Time Needed to Buy Tickets.csproj", "{39919C0E-3345-4A6D-B7AC-30FC7DF45541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLib", "..\ClassLib\ClassLib.csproj", "{3A784F88-DC61-4822-92D6-A61470140628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39919C0E-3345-4A6D-B7AC-30FC7DF45541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39919C0E-3345-4A6D-B7AC-30FC7DF45541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39919C0E-3345-4A6D-B7AC-30FC7DF45541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39919C0E-3345-4A6D-B7AC-30FC7DF45541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A784F88-DC61-4822-92D6-A61470140628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A784F88-DC61-4822-92D6-A61470140628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A784F88-DC61-4822-92D6-A61470140628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A784F88-DC61-4822-92D6-A61470140628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7078C158-E4B9-4AF7-B877-943C98036D12}
+	EndGlobalSection
+EndGlobal
